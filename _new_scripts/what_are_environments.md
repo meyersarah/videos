@@ -1,7 +1,9 @@
-What are Environments?
+What is an *Integrated Development Environment (IDE)*?
 
-Integrated development environments are workplaces where you can write code that will access files in a directory to create output products.  
+Integrated development environments are workplaces where you write code. *An IDE provides a variety of useful services to the programmer, increasing productivity.* 
+
 These are the programs that you will spend most of your time in to use code.  
+
 Environments are not synonymous with code, even though many refer to them that way. Some developers prefer one over the other.  
 
 What is a shell? A shell is a user interface for access to an operating system's services
