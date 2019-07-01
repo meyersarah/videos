@@ -1,2 +1,2 @@
 
-This repository contains video scripts for myDataStory presentations.
+This repository contains video scripts for myDataStory videos.
