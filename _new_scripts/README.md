@@ -1,8 +1,8 @@
 
 #### Video Types
 
-Q/A
+Q/A 
 
-Best Practices
+Best Practices (Data Fowls)
 
-Animation
+Animation (Conceptual Foundation)
