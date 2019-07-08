@@ -1,3 +1,5 @@
+In computing, a directory structure is the way an operating system's file system and its files are displayed to the user. Files are typically displayed in a hierarchical tree structure.  The root directory lies at the base of the tree.
+
 Directories are places where you store your data, files, and folders. 
 
 Having a clean directory allows you to easy access your data in your code. 
