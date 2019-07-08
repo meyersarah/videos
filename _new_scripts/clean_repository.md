@@ -1,3 +1,5 @@
+#### Best-Practices -- Cardinal Sins
+
 Have a designated home for each project. For most data science projects, that home will be Github
 
 For projects that have HIPAA restrictions, designate a secure directory where files are stored and accessed. 
