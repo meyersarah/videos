@@ -1,4 +1,6 @@
-What is a variable?
+#### Animation
+
+What is a variable + Memory + base datatypes?
 
 A variable is an *address* of a memory location.  *In computer science, it* is NOT an undefined term to solve for. This is fundamentally different than algebra.
 
