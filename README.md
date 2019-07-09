@@ -1,8 +1,6 @@
 
 This repository contains video scripts for myDataStory videos.
 
-[Looney Tunes](https://www.youtube.com/watch?v=GEUuZ_UzBQw)
-
 #### Base Videos
 - Joins
 - Data Subsetting
@@ -15,3 +13,5 @@ This repository contains video scripts for myDataStory videos.
 - Q/A 
 - Best Practices (Data Fowls)
 - Animation (Conceptual Foundation)
+
+[Looney Tunes](https://www.youtube.com/watch?v=GEUuZ_UzBQw)
