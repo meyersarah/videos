@@ -7,5 +7,5 @@ This repository contains video scripts for myDataStory videos.
 - Data Subsetting
 - Functions
 - Loops
-- Base Datatypes
+- Base Datatypes + Memory
 - Languages
